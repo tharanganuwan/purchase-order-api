@@ -1,0 +1,23 @@
+## Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+## Ignore build outputs
+bin/
+obj/
+
+## Ignore NuGet packages (if not restored automatically)
+packages/
+
+## Ignore publish output
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+## Ignore Mac/VS Code junk
+.DS_Store
+.vscode/
+
+## Ignore logs and temp files
+*.log
